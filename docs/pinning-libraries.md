@@ -1,17 +1,16 @@
-# Pinning Libraries
+# Bibliotheken anheften
 
-After accepting your invitation to my Plex server, you'll need to pin my shared libraries to your sidebar. This is a required step - without it, you might only see Plex's default content instead of my media collection. Here's what you need to know:
+Nachdem du meine Einladung zu meinem Plex‑Server angenommen hast, musst du meine freigegebenen Bibliotheken an deine Seitenleiste anheften. Das ist ein notwendiger Schritt – sonst siehst du eventuell nur die Standardinhalte von Plex statt meiner Mediensammlung. Hier ist, was du tun musst:
+	1.	Suche in deinen Medienquellen nach „{{plexdazzah}}’s Plex“.
+	2.	Du solltest die folgenden Bibliotheken sehen: {{Movies, Movies (Kids}, TV}
+	3.	Hefte diese Bibliotheken an deine Seitenleiste.
 
-1. Look for "{{ vars.username }}'s Plex" in your media sources
-2. You'll see the following libraries: {{ vars.plex_libraries }}
-3. Pin these libraries to your sidebar
-
-**Recommended**: Unpin Plex's default libraries to keep your Home screen focused on my content. This is especially important since Plex has been increasingly promoting their own content in 2025, making it harder to distinguish between their media and mine.
+**Empfohlen:** Löse die Standardbibliotheken von Plex, damit dein Startbildschirm auf meine Inhalte fokussiert bleibt. Das ist besonders hilfreich, weil Plex seit 2025 immer stärker eigene Inhalte bewirbt – dadurch kann es sonst leicht passieren, dass du meine Sammlung aus den Augen verlierst.
 
 !!! tip
-    If you see any advertisements while watching, you're viewing Plex's content, not mine. My server never shows ads.
+    Wenn dir während des Ansehens Werbung angezeigt wird, stammt sie von Plex – nicht von mir. Mein Server zeigt grundsätzlich keine Werbung an.
 
-!!! example "How-to: Pinning Libraries"
+!!! example "How-to: Bibliotheken anheften"
 
     ![Example](assets/images/pinning-libraries-1.webp)
     ![Example](assets/images/pinning-libraries-2.webp)
