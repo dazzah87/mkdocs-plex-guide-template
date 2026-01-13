@@ -1,7 +1,5 @@
-# Changing Plex streaming quality: tvOS (Apple TV)
+# Ändern der Plex-Streaming-Qualität: tvOS (Apple TV)
 
 !!! example "tvOS (Apple TV)"
 
     ![Example](../assets/images/change-stream-quality-apple-tv.webp)
-
-    **Source**: [plxplainers.xyz](https://www.plxplainers.xyz/)
