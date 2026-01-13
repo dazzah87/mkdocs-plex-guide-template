@@ -15,5 +15,3 @@ Nachdem du meine Einladung zu meinem Plex‑Server angenommen hast, musst du mei
 
     ![Example](assets/images/pinning-libraries-1.webp)
     ![Example](assets/images/pinning-libraries-2.webp)
-
-    **Source**: [plxplainers.xyz](https://www.plxplainers.xyz/)
