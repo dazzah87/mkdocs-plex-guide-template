@@ -1,6 +1,6 @@
-# Changing Plex streaming quality: Web Browser
+# Ändern der Plex-Streaming-Qualität: Webbrowser
 
-!!! example "Web Browser"
+!!! example "Webbrowser"
 
     ![Example](../assets/images/change-stream-quality-web-browser.webp)
 
