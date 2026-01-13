@@ -2,7 +2,6 @@
 title: Intro
 ---
 # Intro
-
 Diese Anleitung erklärt die wichtigsten Schritte, die Du ausführen musst, wenn Du Dich zum ersten Mal mit meinem Plex‑Server verbindest. Er sollte hoffentlich den Großteil Deiner Fragen beantworten – und falls doch einmal etwas unklar ist, kannst Du Dich jederzeit an mich wenden.
 
 Auch wenn die meisten Screenshots aus einem Webbrowser stammen, kannst Du alle beschriebenen Änderungen in jeder Plex‑App vornehmen – egal, ob auf dem Smartphone oder Smart‑TV. Wenn Du Schwierigkeiten hast, eine bestimmte Einstellung zu finden, empfehle ich Dir jedoch, die Anpassung im Webbrowser vorzunehmen.
