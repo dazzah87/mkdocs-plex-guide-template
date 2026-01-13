@@ -1,13 +1,13 @@
-# Changing Plex Streaming Quality
+# Ändern der Plex-Streaming-Qualität
 
-By default, Plex sets video quality to 720p on all new devices. While this conservative setting ensures broad compatibility, it's not optimal for several reasons:
+Standardmäßig stellt Plex die Videoqualität auf allen neuen Geräten auf 720p ein. Diese Einstellung gewährleistet zwar eine breite Kompatibilität, ist jedoch aus mehreren Gründen nicht optimal:
 
-1. Most devices today can handle higher quality streams
-2. Downscaling 1080p content to 720p reduces video quality
-3. [Transcoding](../faq/what-is-transcoding.md) (converting) video from 1080p to 720p creates unnecessary load on the server
+1. Die meisten Geräte können heute Streams mit höherer Qualität verarbeiten.
+2. Durch die Herabstufung von 1080p-Inhalten auf 720p wird die Videoqualität beeinträchtigt.
+3. Die Transcodierung (Konvertierung) von Videos von 1080p auf 720p verursacht eine unnötige Belastung des Servers.
 
 !!! tip
-    For the best viewing experience, you should adjust your quality settings to "Maximum" or at least "1080p" if your internet connection can support it. The sections in the table of contents to your left will show you how to do this on different devices.
+    Für ein optimales Erlebnis sollten die Qualitätseinstellungen auf „Maximal“ oder mindestens „1080p“ stehen, sofern die Internetverbindung dies unterstützt. In den Abschnitten im Inhaltsverzeichnis auf der linken Seite erfährst du, wie du dies auf verschiedenen Geräten tun kannst.
 
 !!! note
-    You'll need to change this setting once for each new Plex app you use (phone, TV, web browser, etc.). After that, the setting will be remembered for that device.
+    Du musst diese Einstellung einmal für jede neue Plex-App, die du verwendst (Telefon, Fernseher, Webbrowser usw.), ändern. Danach wird die Einstellung für dieses Gerät gespeichert.
