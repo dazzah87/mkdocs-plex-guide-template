@@ -3,11 +3,10 @@ title: Preamble
 ---
 #
 
-![Logo](assets/images/guide-logo-dark.webp#only-dark)
-![Logo](assets/images/guide-logo-light.webp#only-light)
-
-Dieser Leitfaden beschreibt die wichtigsten Schritte, die du ausführen musst, wenn du dich zum ersten Mal mit meinem Plex-Server verbindest. Der Inhalt dieses Leitfadens sollte 99 % deiner Fragen beantworten – falls doch etwas unklar ist, kannst du mich jederzeit direkt fragen.
-Auch wenn die meisten Screenshots aus einem Webbrowser stammen, kannst du alle Änderungen von jeder Plex-App aus vornehmen – egal ob auf dem Smartphone, Smart‑TV oder einer Spielekonsole. Wenn du Schwierigkeiten hast, eine bestimmte Einstellung zu finden, empfehle ich dir, die Änderung im Webbrowser durchzuführen.
-Alle in dieser Anleitung beschriebenen Einstellungen werden automatisch auf all deinen Geräten synchronisiert und müssen nur einmal eingerichtet werden – mit einer Ausnahme: Die Plex‑Streaming‑Qualität muss bei der ersten Anmeldung in jeder neuen Plex‑App separat festgelegt werden.
-<br><br>
-Du musst diesen Leitfaden nicht komplett von Anfang bis Ende lesen, aber als neuer Plex‑Benutzer solltest du dir auf jeden Fall die wichtigsten Abschnitte zu folgenden Themen ansehen: [Bibliotheken anheften](pinning-libraries.md) und [Ändern der Plex-Streaming-Qualität](changing-stream-quality/index.md).
+Dieser Leitfaden erklärt die wichtigsten Schritte, die Du ausführen musst, wenn Du Dich zum ersten Mal mit meinem Plex‑Server verbindest. Er sollte hoffentlich den Großteil Deiner Fragen beantworten – und falls doch einmal etwas unklar ist, kannst Du Dich jederzeit an mich wenden.
+</br></br>
+Auch wenn die meisten Screenshots aus einem Webbrowser stammen, kannst Du alle beschriebenen Änderungen in jeder Plex‑App vornehmen – egal, ob auf dem Smartphone, Smart‑TV oder einer Spielekonsole. Wenn Du Schwierigkeiten hast, eine bestimmte Einstellung zu finden, empfehle ich Dir jedoch, die Anpassung im Webbrowser vorzunehmen.
+</br></br>
+Alle in dieser Anleitung beschriebenen Einstellungen werden automatisch auf all Deinen Geräten synchronisiert und müssen nur ein einziges Mal eingerichtet werden – mit einer Ausnahme: Die **Plex‑Streaming‑Qualität** musst Du bei der ersten Anmeldung in jeder neuen Plex‑App separat festlegen.
+</br></br>
+Du musst diesen Leitfaden nicht vollständig von Anfang bis Ende lesen. Als neuer Plex‑Benutzer solltest Du Dir jedoch unbedingt die Abschnitte zu folgenden Themen ansehen: [Bibliotheken anheften](pinning-libraries.md) und [Ändern der Plex-Streaming-Qualität](changing-stream-quality/index.md)!
