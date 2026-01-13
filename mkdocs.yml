@@ -43,13 +43,13 @@ nav:
   - Bibliotheken anheften: pinning-libraries.md
   - Newsletter-Abonnements verwalten: unsubscribe-from-plex-newsletter.md
   - Deaktivieren von Online-Medienquellen: disabling-online-media-sources.md
-  - Medien anfordern: requesting-content.md
+  ## - Medien anfordern: requesting-content.md
   - Changing Plex streaming quality:
     - changing-stream-quality/index.md
     - iOS & Android: changing-stream-quality/ios-android.md
     - tvOS (Apple TV): changing-stream-quality/tv-os.md
-    - Amazon Fire TV, Android TV, PlayStation 4/5, Xbox, Roku, Smart TV (LG, Samsung, VIZIO): changing-stream-quality/streaming-devices.md
-    - Web Browser: changing-stream-quality/web-browser.md
+    - Amazon Fire TV, Android TV, PlayStation, Xbox, Roku, Smart TV (LG, Samsung, VIZIO): changing-stream-quality/streaming-devices.md
+    - Webbrowser: changing-stream-quality/web-browser.md
  ## - FAQ:
    ## - What is transcoding?: faq/what-is-transcoding.md
    ## - Why do I need to buy the Plex app on my phone?: faq/why-do-i-to-buy-plex-app.md
