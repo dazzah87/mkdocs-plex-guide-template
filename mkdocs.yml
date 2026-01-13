@@ -44,7 +44,7 @@ nav:
   - Newsletter-Abonnements verwalten: unsubscribe-from-plex-newsletter.md
   - Deaktivieren von Online-Medienquellen: disabling-online-media-sources.md
   ## - Medien anfordern: requesting-content.md
-  - Changing Plex streaming quality:
+  - Ändern der Plex-Streaming-Qualität:
     - changing-stream-quality/index.md
     - iOS & Android: changing-stream-quality/ios-android.md
     - tvOS (Apple TV): changing-stream-quality/tv-os.md
