@@ -1,6 +1,6 @@
-# Is Plex safe to use?
+# Ist Plex sicher?
 
-Yes, connecting to and using my Plex server is completely safe. Your connection is protected by the same type of security that banks use for online banking, with encryption that updates automatically every 90 days to stay secure. All of your personal information - including your username, what you watch, and your viewing history - is only visible to you and me. I also use a professional content delivery network (CDN) that both improves performance and adds an extra layer of security to protect your privacy.
+Ja, die Verbindung zu meinem Plex-Server und dessen Nutzung sind vollkommen sicher. Die Verbindung wird durch dieselbe Art von Sicherheit geschützt, die Banken für Online-Banking verwenden, mit einer Verschlüsselung, die alle 90 Tage automatisch aktualisiert wird, um die Sicherheit zu gewährleisten. Alle persönlichen Daten – einschließlich des Benutzernamens, angesehenen Inhalte und des Verlaufs – sind nur für Dich und mich sichtbar.
 
 !!! example "Secure connection example"
 
