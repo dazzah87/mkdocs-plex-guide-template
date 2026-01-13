@@ -1,22 +1,10 @@
-# Managing Newsletter Subscriptions
+# Newsletter-Abonnements verwalten
 
-## Plex's Official Newsletter
-New Plex accounts are automatically subscribed to Plex's company newsletter. This is managed by Plex directly and is not controlled by my server. You can unsubscribe from this through your Plex account settings.
+## Offizieller Newsletter von Plex
+Neue Plex-Konten werden automatisch für den Unternehmens-Newsletter von Plex angemeldet. Dies wird direkt von Plex verwaltet und unterliegt nicht der Kontrolle meines Servers. Du kannst dich über deine Plex-Kontoeinstellungen davon abmelden.
 
-!!! example "How-to: Unsubscribing from Plex's Newsletter"
+!!! example "How-to: Newsletter-Abonnements verwalten"
 
     ![Example](assets/images/unsubscribe-from-plex-newsletter.webp)
 
     **Source**: [plxplainers.xyz](https://www.plxplainers.xyz/)
-
-## My Weekly Newsletter
-I send out a separate, personal newsletter every Friday at 5:00 PM. You can identify it by:
-
-- Email address sending this newsletter will be `{{ vars.noreply_email }}`
-- The newsletter itself will have a logo with the name of my Plex server
-
-If you'd like to unsubscribe from my newsletter, please contact me privately.
-
-!!! example ""
-
-    ![Example](assets/images/custom-newsletter.webp)
