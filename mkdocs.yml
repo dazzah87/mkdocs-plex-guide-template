@@ -21,7 +21,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: en
+  language: de
   palette:
     - scheme: slate
       toggle:
@@ -37,35 +37,35 @@ theme:
       accent: purple
 
 nav:
-  - Preamble: index.md
-  - What is Plex?: what-is-plex.md
-  - Is Plex safe to use?: plex-safety.md
-  - Pinning Libraries: pinning-libraries.md
-  - Managing Newsletter Subscriptions: unsubscribe-from-plex-newsletter.md
-  - Disabling Online Media Sources: disabling-online-media-sources.md
-  - Requesting Content: requesting-content.md
+  - Intro: index.md
+  - Was ist Plex?: what-is-plex.md
+  - Ist Plex sicher?: plex-safety.md
+  - Bibliotheken anheften: pinning-libraries.md
+  - Newsletter-Abonnements verwalten: unsubscribe-from-plex-newsletter.md
+  - Deaktivieren von Online-Medienquellen: disabling-online-media-sources.md
+  - Medien anfordern: requesting-content.md
   - Changing Plex streaming quality:
     - changing-stream-quality/index.md
     - iOS & Android: changing-stream-quality/ios-android.md
     - tvOS (Apple TV): changing-stream-quality/tv-os.md
     - Amazon Fire TV, Android TV, PlayStation 4/5, Xbox, Roku, Smart TV (LG, Samsung, VIZIO): changing-stream-quality/streaming-devices.md
     - Web Browser: changing-stream-quality/web-browser.md
-  - FAQ:
-    - What is transcoding?: faq/what-is-transcoding.md
-    - Why do I need to buy the Plex app on my phone?: faq/why-do-i-to-buy-plex-app.md
-    - My video won't stop buffering: faq/wont-stop-buffering.md
-    - Help, I forgot my Plex password!: faq/forgot-password.md
-    - How do I add items to my Plex Universal Watchlist?: faq/adding-to-universal-watchlist.md
-    - Responsible Content Requesting: faq/responsible-content-requests.md
-    - I requested something an hour ago but it hasn't shown up yet. Why?: faq/missing-requests.md
-    - I'm having a problem with a Movie or TV Show: faq/content-issues.md
-    - Content Quality and Language Options: faq/special-requests.md
-    - I don't want to use this request thingy, can't I just tell you what I want?: faq/i-dont-want-to-use-overseerr.md
-    - Missing Confirmation Emails: faq/missing-emails.md
-    - Can I share your Plex server with someone else?: faq/can-i-share-your-plex.md
-    - Plex is awesome! Can I send you some money to support it?: faq/how-can-i-support-you.md
-    - Why Bitrate Matters: faq/why-bitrate-matters.md
-  - Useful Links: useful-links.md
+ ## - FAQ:
+   ## - What is transcoding?: faq/what-is-transcoding.md
+   ## - Why do I need to buy the Plex app on my phone?: faq/why-do-i-to-buy-plex-app.md
+   ## - My video won't stop buffering: faq/wont-stop-buffering.md
+   ## - Help, I forgot my Plex password!: faq/forgot-password.md
+   ## - How do I add items to my Plex Universal Watchlist?: faq/adding-to-universal-watchlist.md
+   ## - Responsible Content Requesting: faq/responsible-content-requests.md
+   ## - I requested something an hour ago but it hasn't shown up yet. Why?: faq/missing-requests.md
+   ## - I'm having a problem with a Movie or TV Show: faq/content-issues.md
+   ## - Content Quality and Language Options: faq/special-requests.md
+   ## - I don't want to use this request thingy, can't I just tell you what I want?: faq/i-dont-want-to-use-overseerr.md
+   ##  - Missing Confirmation Emails: faq/missing-emails.md
+   ## - Can I share your Plex server with someone else?: faq/can-i-share-your-plex.md
+   ## - Plex is awesome! Can I send you some money to support it?: faq/how-can-i-support-you.md
+   ## - Why Bitrate Matters: faq/why-bitrate-matters.md
+  ## - Useful Links: useful-links.md
 
 plugins:
   - search
@@ -113,12 +113,6 @@ extra_css:
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: "https://github.com/{{ username }}"
-      name: "{{ username }} @ Github"
-    - icon: fontawesome/brands/discord
-      link: https://discord.com
-      name: Discord Channel
     - icon: fontawesome/solid/globe
       link: "https://{{ username }}.github.io/mkdocs-plex-guide-template/"
       name: Personal Website
