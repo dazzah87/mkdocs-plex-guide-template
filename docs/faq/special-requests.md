@@ -14,7 +14,7 @@ Danach wird geprüft, ob deutsch- und englischsprachige Tonspuren vorhanden sind
 
 Ist dies nicht der Fall, erfolgt zunächst der Download mit der Originalsprache (meistens englisch). Wird zu einem späteren Zeitpunkt eine Version mit beiden Tonspuren gefunden, ersetzt diese automatisch die vorhandene Datei.
 
-Dieser ganze Prozess läuft jede 30 Minuten automatisch im Hintergrund.
+Dieser gesamte Prozess startet alle 30 Minuten automatisch im Hintergrund und beginnt dabei jedes Mal von vorne.
 
 Eine gute Möglichkeit, um vorab zu prüfen, ob ein Film oder eine Serie verfügbar ist, bietet z.B. [https://www.xrel.to/](https://www.xrel.to/).
 
