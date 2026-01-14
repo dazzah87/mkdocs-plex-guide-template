@@ -43,7 +43,7 @@ nav:
   - Bibliotheken anheften: pinning-libraries.md
   - Newsletter-Abonnements verwalten: unsubscribe-from-plex-newsletter.md
   - Deaktivieren von Online-Medienquellen: disabling-online-media-sources.md
-  ## - Medien anfordern: requesting-content.md
+  - Content-Einstellungen und Aktualisierungsprozess: faq/special-requests.md
   - Ändern der Plex-Streaming-Qualität:
     - changing-stream-quality/index.md
     - iOS & Android: changing-stream-quality/ios-android.md
@@ -106,7 +106,7 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: "Copyright &copy; 2025 {{ username }}"
+copyright: "Copyright &copy; 2026 {{ username }}"
 
 extra_css:
   - stylesheets/extra.css
@@ -122,7 +122,7 @@ extra:
     repo_name: !ENV GITHUB_REPOSITORY
     request_url: "request.example.com"
     plex_url: "plex.example.com"
-    plex_libraries: "Movies and TV Shows"
+    plex_libraries: "Movies, Movies (Kids) und TV"
     noreply_email: "noreply@example.com"
 
   env:
