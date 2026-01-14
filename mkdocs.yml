@@ -43,7 +43,7 @@ nav:
   - Bibliotheken anheften: pinning-libraries.md
   - Newsletter-Abonnements verwalten: unsubscribe-from-plex-newsletter.md
   - Deaktivieren von Online-Medienquellen: disabling-online-media-sources.md
-  - Content-Einstellungen und Aktualisierungsprozess: faq/special-requests.md
+  - Content-Qualität und Aktualisierungsprozess: faq/special-requests.md
   - Ändern der Plex-Streaming-Qualität:
     - changing-stream-quality/index.md
     - iOS & Android: changing-stream-quality/ios-android.md
@@ -52,18 +52,13 @@ nav:
     - Webbrowser: changing-stream-quality/web-browser.md
  ## - FAQ:
    ## - What is transcoding?: faq/what-is-transcoding.md
-   ## - Why do I need to buy the Plex app on my phone?: faq/why-do-i-to-buy-plex-app.md
    ## - My video won't stop buffering: faq/wont-stop-buffering.md
    ## - Help, I forgot my Plex password!: faq/forgot-password.md
-   ## - How do I add items to my Plex Universal Watchlist?: faq/adding-to-universal-watchlist.md
    ## - Responsible Content Requesting: faq/responsible-content-requests.md
    ## - I requested something an hour ago but it hasn't shown up yet. Why?: faq/missing-requests.md
    ## - I'm having a problem with a Movie or TV Show: faq/content-issues.md
-   ## - Content Quality and Language Options: faq/special-requests.md
    ## - I don't want to use this request thingy, can't I just tell you what I want?: faq/i-dont-want-to-use-overseerr.md
-   ##  - Missing Confirmation Emails: faq/missing-emails.md
    ## - Can I share your Plex server with someone else?: faq/can-i-share-your-plex.md
-   ## - Plex is awesome! Can I send you some money to support it?: faq/how-can-i-support-you.md
    ## - Why Bitrate Matters: faq/why-bitrate-matters.md
   ## - Useful Links: useful-links.md
 
