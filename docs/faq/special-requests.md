@@ -1,14 +1,14 @@
 #Content-Qualität und Aktualisierungsprozess
 
 ##Content-Qualität
-Standardmäßig sind die meisten Inhalte auf meinem Plex-Server in:
+Standardmäßig haben die meisten Inhalte auf meinem Plex-Server folgendes:
 
 - 1080p-Auflösung
-- Englischer und deutscher Tonspur
-- Englischen und deutschen Untertiteln (sofern verfügbar)
+- Englische und deutsche Tonspur
+- Englische und deutsche Untertitel (sofern verfügbar)
 
 ##Aktualisierungsprozess
-Sobald ein Film oder eine Serie hinzugefügt wird, prüft das System zunächst, ob eine 1080p-Version verfügbar ist.
+Sobald ein Film oder eine Serie hinzugefügt wird, prüft das System als Erstes, ob eine 1080p- bzw. 720p-Version verfügbar ist.
 
 Danach wird geprüft, ob deutsch- und englischsprachige Tonspuren vorhanden sind. Wenn beide Sprachen verfügbar sind, lädt das System den Titel mit diesen Tonspuren herunter und fügt ihn Plex hinzu.
 
