@@ -1,6 +1,6 @@
-#Standard-Einstellungen und Aktualisierungsprozess
+#Content-Einstellungen und Aktualisierungsprozess
 
-##Standard-Einstellungen
+##Content-Einstellungen
 Standardmäßig sind die meisten Inhalte auf meinem Plex-Server in:
 	•	1080p-Auflösung
 	•	Englischer und deutscher Tonspur
@@ -15,4 +15,4 @@ Ist dies nicht der Fall, erfolgt zunächst der Download mit der Originalsprache 
 Eine gute Möglichkeit, um vorab zu prüfen, ob ein Film oder eine Serie verfügbar ist, bietet z.B. [https://www.xrel.to/](https://www.xrel.to/).
 
 !!! note
-    Besondere Wünsche können etwas mehr Zeit benötigen bis sie verfügbar sind. Ich gebe mein Bestes, um Deine Anfragen zu erfüllen, kann jedoch     nicht garantieren, dass ich alles finde.
+    Besondere Wünsche können etwas mehr Zeit benötigen bis sie verfügbar sind. Ich gebe mein Bestes, alle Anfragen zu erfüllen, kann jedoch     	nicht garantieren, dass ich alles finde.
