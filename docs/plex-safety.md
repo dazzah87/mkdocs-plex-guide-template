@@ -1,5 +1,6 @@
 # Ist Plex sicher?
-Ja, die Verbindung zu meinem Plex-Server und dessen Nutzung sind absolut sicher. Plex selbst ist eine legale Media Server Software. Der Server steht in den Niederlanden. Connections to my self-hosted remote Plex server are secured using HTTPS. Die Verschlüsselung wird alle 90 Tage automatisch erneuert, um höchsten Schutz zu gewährleisten. Sämtliche persönlichen Daten – einschließlich Benutzername, angesehene Inhalte und Wiedergabe­verlauf – bleiben ausschließlich für Dich und mich sichtbar.
+Ja, die Verbindung zu meinem Plex-Server und dessen Nutzung sind absolut sicher. Plex ist eine legale Media-Server-Software.
+Mein Server ist selbstgehostet und steht in den Niederlanden. Die Verbindung ist stets über HTTPS verschlüsselt. Das Zertifikat wird alle 90 Tage automatisch erneuert, um den bestmöglichen Schutz zu gewährleisten. Alle persönlichen Daten – einschließlich Deines Benutzernamens, der angesehenen Inhalte und Deines Wiedergabeverlaufs – bleiben ausschließlich für Dich und mich sichtbar.
 
 !!! info ""
     Die von mir gespeicherten Daten werden ausschließlich zur technischen Unterstützung verwendet und nicht aktiv eingesehen oder weitergegeben!
