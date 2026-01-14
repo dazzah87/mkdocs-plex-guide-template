@@ -1,7 +1,8 @@
 # Ist Plex sicher?
 Ja, die Verbindung zu meinem Plex-Server und dessen Nutzung sind absolut sicher. Der Server steht in den Niederlanden und wird durch die gleiche Sicherheits­technologie geschützt, die auch Banken beim Online-Banking verwenden. Die Verschlüsselung wird alle 90 Tage automatisch erneuert, um höchsten Schutz zu gewährleisten. Sämtliche persönlichen Daten – einschließlich Benutzername, angesehene Inhalte und Wiedergabe­verlauf – bleiben ausschließlich für Dich und mich sichtbar.
 
-!!! info Die von mir gespeicherten Daten werden ausschließlich zur technischen Unterstützung verwendet und nicht aktiv eingesehen oder weitergegeben!
+!!! info ""
+Die von mir gespeicherten Daten werden ausschließlich zur technischen Unterstützung verwendet und nicht aktiv eingesehen oder weitergegeben!
 
 ## Zusätzliche empfohlene Datenschutzeinstellungen
 
