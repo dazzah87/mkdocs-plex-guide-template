@@ -45,12 +45,6 @@ Steuere die Sichtbarkeit Deiner Streaming-Aktivitäten:
 
 **Link**: [https://app.plex.tv/desktop/#!/settings/account](https://app.plex.tv/desktop/#!/settings/account)
 
-### 5. Online-Medienquellen
-
-Verwalte die angezeigten Freundesaktivitäten und deaktiviere Plex-eigene Inhalte, falls nicht gewünscht.
-
-**Link**: [https://app.plex.tv/desktop/#!/settings/online-media-sources](https://app.plex.tv/desktop/#!/settings/online-media-sources)
-
 ---
 
 Bei Fragen zur Einrichtung kannst Du Dich jederzeit an mich wenden.
