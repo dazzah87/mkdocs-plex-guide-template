@@ -2,6 +2,7 @@
 
 ##Content-Einstellungen
 Standardmäßig sind die meisten Inhalte auf meinem Plex-Server in:
+
 - 1080p-Auflösung
 - Englischer und deutscher Tonspur
 - Englischen und deutschen Untertiteln (sofern verfügbar)
