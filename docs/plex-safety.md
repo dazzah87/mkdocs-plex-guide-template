@@ -1,9 +1,8 @@
 # Ist Plex sicher?
-Ja, die Verbindung zu meinem Plex-Server und dessen Nutzung sind absolut sicher. Plex ist eine legale Media-Server-Software.
-Mein Server ist selbstgehostet und steht in den Niederlanden. Die Verbindung ist stets über HTTPS verschlüsselt. Das Zertifikat wird alle 90 Tage automatisch erneuert, um den bestmöglichen Schutz zu gewährleisten. Alle persönlichen Daten – einschließlich Deines Benutzernamens, der angesehenen Inhalte und Deines Wiedergabeverlaufs – bleiben ausschließlich für Dich und mich sichtbar.
+Ja, die Verbindung zu meinem Plex-Server und dessen Nutzung sind sicher. Plex ist eine legale Media-Server-Software. Mein Server ist selbstgehostet und steht in den Niederlanden. Die Verbindung ist stets über HTTPS verschlüsselt und das Zertifikat wird alle 90 Tage automatisch erneuert. Alle persönlichen Daten – einschließlich Deines Benutzernamens, der angesehenen Inhalte und Deines Wiedergabeverlaufs – bleiben ausschließlich für Dich und mich sichtbar.
 
 !!! info ""
-    Die von mir gespeicherten Daten werden ausschließlich zur technischen Unterstützung verwendet und nicht aktiv eingesehen oder weitergegeben!
+    **Die oben genannten Daten werden nur zur technischen Unterstützung verwendet und nicht aktiv eingesehen oder weitergegeben!**
 
 ## Zusätzliche empfohlene Datenschutzeinstellungen
 
@@ -45,7 +44,3 @@ Steuere die Sichtbarkeit Deiner Streaming-Aktivitäten:
 3. Klicke auf "Edit" und passe die Optionen nach Deinen Wünschen an.
 
 **Link**: [https://app.plex.tv/desktop/#!/settings/account](https://app.plex.tv/desktop/#!/settings/account)
-
----
-
-Bei Fragen zur Einrichtung kannst Du Dich jederzeit an mich wenden.
