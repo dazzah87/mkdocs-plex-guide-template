@@ -1,7 +1,7 @@
 # Ist Plex sicher?
 Ja, die Verbindung zu meinem Plex-Server und dessen Nutzung sind sicher. Plex ist eine legale Media-Server-Software. Mein Server ist selbstgehostet und steht in den Niederlanden. Die Verbindung ist stets über HTTPS verschlüsselt und das Zertifikat wird alle 90 Tage automatisch erneuert. Alle persönlichen Daten – einschließlich Deines Benutzernamens, der angesehenen Inhalte und Deines Wiedergabeverlaufs – bleiben ausschließlich für Dich und mich sichtbar.
 
-!!! info ""
+!!! warning ""
     **Die oben genannten Daten werden nur zur technischen Unterstützung verwendet und nicht aktiv eingesehen oder weitergegeben!**
 
 ## Zusätzliche empfohlene Datenschutzeinstellungen
@@ -13,7 +13,9 @@ Um Deinen digitalen "Plex-Footprint" zu minimieren, empfehle ich noch folgende A
 Beende den Empfang von Marketing-E-Mails über die unten stehende Seite. Du kannst einzelne Newsletter abwählen oder "Unsubscribe from ALL" wählen, um alle nicht-administrativen E-Mails zu stoppen.
 
 **Link**: [https://www.plex.tv/email-preferences/](https://www.plex.tv/email-preferences/)
+
 ---
+
 ### 2. Datenverkauf und personalisierte Werbung
 
 Plex erlaubt zwar keine vollständige Deaktivierung von Werbung in kostenlosen Inhalten, bietet aber Kontrolle über den Datenverkauf und personalisierte Werbung. Auf der folgenden Seite kannst Du:
