@@ -84,6 +84,7 @@ plugins:
 markdown_extensions:
   - toc:
       toc_depth: 1
+      permalink: true
   - pymdownx.blocks.caption
   - pymdownx.highlight:
       anchor_linenums: true
