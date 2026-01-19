@@ -1,8 +1,8 @@
 # Bibliotheken anheften
 
-Nachdem Du meine Einladung zu meinem Plex‑Server angenommen hast, musst Du die freigegebenen Bibliotheken an Deine Seitenleiste anheften. Das ist ein notwendiger Schritt – sonst siehst Du eventuell nur die Standardinhalte von Plex statt meiner Mediensammlung. Hier ist, was du tun musst:
+Nachdem Du meine Einladung zu meinem Plex‑Server angenommen hast, musst Du die freigegebenen Bibliotheken an Deine Seitenleiste anheften. Das ist ein notwendiger Schritt – sonst siehst Du eventuell nur die Standardinhalte von Plex statt meiner Mediensammlung.
 
-1.	Suche nach meiner Medienquelle: <details>test</details>
+1.	Suche nach meiner Medienquelle.
 2.	Du solltest die folgenden Bibliotheken sehen: Movies, Movies (Kids), TV
 3.	Hefte diese Bibliotheken an Deine Seitenleiste.
 
@@ -11,7 +11,7 @@ Nachdem Du meine Einladung zu meinem Plex‑Server angenommen hast, musst Du die
 !!! info
     Wenn Dir während des Ansehens Werbung angezeigt wird, stammt sie von Plex – nicht von mir. Mein Server zeigt grundsätzlich keine Werbung an!
 
-!!! example "How-to: Bibliotheken anheften"
+??? example "Foto-Guide: Bibliotheken anheften"
 
     ![Example](assets/images/pinning-libraries-1.webp)
     ![Example](assets/images/pinning-libraries-2.webp)
