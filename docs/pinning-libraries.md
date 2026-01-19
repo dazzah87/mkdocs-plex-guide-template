@@ -2,7 +2,7 @@
 
 Nachdem Du meine Einladung zu meinem Plex‑Server angenommen hast, musst Du die freigegebenen Bibliotheken an Deine Seitenleiste anheften. Das ist ein notwendiger Schritt – sonst siehst Du eventuell nur die Standardinhalte von Plex statt meiner Mediensammlung. Hier ist, was du tun musst:
 
-1.	Suche nach meiner Medienquelle.
+1.	Suche nach meiner Medienquelle <details><summary>Click or tap to show name</summary>test</details>.
 2.	Du solltest die folgenden Bibliotheken sehen: Movies, Movies (Kids), TV
 3.	Hefte diese Bibliotheken an Deine Seitenleiste.
 
