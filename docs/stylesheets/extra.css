@@ -21,6 +21,9 @@
   .md-typeset h2 {
      margin: .64em 0 0;
   }
+  .md-typeset h3 {
+     margin: 1em 0 0;
+  }
 
 .banner {
   height: 24px;       /* Made slightly taller for the warning icon */
