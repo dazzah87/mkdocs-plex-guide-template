@@ -24,7 +24,9 @@ Plex erlaubt zwar keine vollständige Deaktivierung von Werbung in kostenlosen I
 2. In der zweiten blauen Box **"All No"** auswählen, um personalisierte Werbung abzulehnen.
 
 **Link**: [https://www.plex.tv/vendors-us/](https://www.plex.tv/vendors-us/)
+
 ---
+
 ### 3. Optionale Wiedergabedaten
 
 Plex sammelt technische Informationen über Inhalte, die von persönlichen Servern gestreamt werden. Du kannst dies deaktivieren:
@@ -37,7 +39,9 @@ Plex sammelt technische Informationen über Inhalte, die von persönlichen Serve
     Falls der Link nicht funktioniert, kopiere ihn bitte manuell in Deinen Browser.
 
 **Link**: [https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd](https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd)
+
 ---
+
 ### 4. Profil-Privatsphäre
 
 Steuere die Sichtbarkeit Deiner Streaming-Aktivitäten:
