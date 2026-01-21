@@ -10,4 +10,4 @@ Standardmäßig stellt Plex die Videoqualität auf allen neuen Geräten auf 720p
     Für ein optimales Erlebnis sollten die Qualitätseinstellungen auf „Maximal“ oder mindestens „1080p“ stehen, sofern die Internetverbindung dies unterstützt. In den Abschnitten im Inhaltsverzeichnis auf der linken Seite erfährst du, wie du dies auf verschiedenen Geräten tun kannst.
 
 !!! note
-    Du musst diese Einstellung einmal für jede neue Plex-App, die du verwendst (Telefon, Fernseher, Webbrowser usw.), ändern. Danach wird die Einstellung für dieses Gerät gespeichert.
+    Du musst diese Einstellung einmal für jede neue Plex-App, die du verwendst (Handy, TV, Webbrowser usw.), ändern. Danach wird die Einstellung für dieses Gerät gespeichert.
