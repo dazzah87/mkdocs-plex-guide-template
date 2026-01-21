@@ -9,6 +9,6 @@ Wenn Du Dich mit meinem Plex-Server verbindest, erhältst Du Zugriff auf meine M
     ![Example](assets/images/joining-plex-2.webp)
 
 !!! info 
-    Bei den mobilen Apps von Plex gibt es eine Besonderheit: Während die meisten Plex-Apps kostenlos sind, fällt für die mobilen Apps eine einmalige Aktivierungsgebühr von 5 € an. Diese Zahlung erfolgt direkt über die App an Plex. Wenn Du die App auf einem iOS-Gerät freischaltest, wird damit automatisch die Nutzung auf allen iOS-Geräten aktiviert, die mit Deinem Konto verbunden sind. Aktivierst Du die App auf einem Android-Gerät, gilt die Freischaltung ebenso für alle Android-Geräte in Deinem Konto.
+    Bei den mobilen Apps von Plex gibt es eine Besonderheit: Während die meisten Plex-Apps kostenlos sind, fällt für die mobilen Apps eine einmalige Aktivierungsgebühr von 5 € an. Diese Zahlung erfolgt direkt über die App. Wenn Du die App auf einem iOS-Gerät freischaltest, wird damit automatisch die Nutzung auf allen iOS-Geräten aktiviert, die mit Deinem Konto verbunden sind. Aktivierst Du die App auf einem Android-Gerät, gilt die Freischaltung ebenso für alle Android-Geräte in Deinem Konto.
 
 Für weitere Information, schau Dir am besten die offizielle Webseite an: [plex.tv](https://www.plex.tv/)
