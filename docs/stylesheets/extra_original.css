@@ -14,6 +14,22 @@
     background-color: rgb(220, 53, 69);
     -webkit-mask-image: var(--md-admonition-icon--important);
             mask-image: var(--md-admonition-icon--important);
+/* Standardmäßig alle Permalinks ausblenden */
+.md-typeset .headerlink {
+  display: none;
+}
+
+/* Nur bei h2 und h3 anzeigen */
+.md-typeset h2 .headerlink,
+.md-typeset h3 .headerlink {
+  display: inline-block;
+}
+
+/* Optional: nur auf Hover des Headings */
+.md-typeset h2:hover .headerlink,
+.md-typeset h3:hover .headerlink {
+  /* z.B. opacity: 1; falls du oben eine geringe Opacity gesetzt hast */
+}
   }
   .md-typeset h1 {
      margin: 0;
