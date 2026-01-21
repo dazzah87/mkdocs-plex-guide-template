@@ -26,7 +26,6 @@
 }
 
 /* ===== Permalinks (toc permalink -> .headerlink) ===== */
-/* Default: nicht komplett "display:none" (schlechter für Fokus/UX), sondern ausblenden */
 .md-typeset .headerlink {
   opacity: 0;
   visibility: hidden;
@@ -42,8 +41,8 @@
 
 /* ===== Headings spacing ===== */
 .md-typeset h1 { margin: 0; }
-.md-typeset h2 { margin: 0.64em 0 0; }
-.md-typeset h3 { margin: 0.8em 0 0; }
+.md-typeset h2 { margin: 0.8em 0 0; }
+.md-typeset h3 { margin: 1em 0 0; }
 
 /* ===== Sticky Banner ===== */
 .banner {
