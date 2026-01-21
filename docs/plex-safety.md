@@ -6,11 +6,11 @@ Ja, die Verbindung zu meinem Plex-Server und dessen Nutzung sind sicher! Mein Se
 
 ## Zusätzliche empfohlene Datenschutzeinstellungen
 
-Um Deinen digitalen "Plex-Footprint" zu minimieren, empfehle ich noch folgende Anpassungen in Deinem Plex-Konto:
+Um Deinen "Plex-Footprint" zu minimieren, empfehle ich noch folgende Anpassungen:
 
 ### 1. Marketing E-Mails deaktivieren
 
-Beende den Empfang von Marketing-E-Mails über die unten stehende Seite. Du kannst einzelne Newsletter abwählen oder "Unsubscribe from ALL" wählen, um alle nicht-administrativen E-Mails zu stoppen.
+Deaktiviere Marketing-E-Mails über die unten stehende Seite. Du kannst einzelne Newsletter abwählen oder "Unsubscribe from ALL" wählen, um alle E-Mails zu stoppen.
 
 **Link**: [https://www.plex.tv/email-preferences/](https://www.plex.tv/email-preferences/)
 
