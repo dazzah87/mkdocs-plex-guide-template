@@ -39,14 +39,13 @@ theme:
 nav:
   - Intro: index.md
   - Was ist Plex?: what-is-plex.md
-  #- Ist Plex sicher?: plex-safety.md
   - Sicherheit und empfohlene Einstellungen:
     - recommended-settings/index.md
-    - Datenschutzeinstellungen: datenschutzeinstellungen.md
-    - Newsletter-Abonnement: unsubscribe-from-plex-newsletter.md
-    - Deaktivieren von Online-Medienquellen: disabling-online-media-sources.md
+    - Datenschutzeinstellungen: recommended-settings/datenschutzeinstellungen.md
+    - Newsletter-Abonnement: recommended-settings/unsubscribe-from-plex-newsletter.md
+    - Deaktivieren von Online-Medienquellen: recommended-settings/disabling-online-media-sources.md
   - Bibliotheken anheften: pinning-libraries.md 
-  - Content-Qualität und Aktualisierungsprozess: special-requests.md
+  - Content-Qualität und Aktualisierungsprozess: quality-and-automation.md
   - Ändern der Plex-Streaming-Qualität:
     - changing-stream-quality/index.md
     - iOS & Android: changing-stream-quality/ios-android.md
