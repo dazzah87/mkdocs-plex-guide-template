@@ -1,4 +1,4 @@
-# Empfohlene Datenschutzeinstellungen
+# Datenschutzeinstellungen
 
 Um Deinen digitalen "Plex-Footprint" zu minimieren, empfehle ich noch folgende Anpassungen:
 
