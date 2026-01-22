@@ -10,7 +10,7 @@ Deaktiviere Marketing-E-Mails über die unten stehende Seite. Du kannst einzelne
 
 ---
 
-## 2. Datenverkauf und personalisierte Werbung
+## 2. Datenverkauf und personalisierte Werbung widersprechen
 
 Plex erlaubt zwar keine vollständige Deaktivierung von Werbung in kostenlosen Inhalten, bietet aber Kontrolle über den Datenverkauf und personalisierte Werbung. Auf der folgenden Seite kannst Du:
 
@@ -21,7 +21,7 @@ Plex erlaubt zwar keine vollständige Deaktivierung von Werbung in kostenlosen I
 
 ---
 
-## 3. Optionale Wiedergabedaten
+## 3. Optionale Wiedergabedaten deaktivieren
 
 Plex sammelt technische Informationen über Inhalte, die von persönlichen Servern gestreamt werden. Du kannst dies deaktivieren:
 
@@ -36,7 +36,7 @@ Plex sammelt technische Informationen über Inhalte, die von persönlichen Serve
 
 ---
 
-## 4. Profil-Privatsphäre
+## 4. Profil-Privatsphäre anpassen
 
 Steuere die Sichtbarkeit Deiner Streaming-Aktivitäten:
 
