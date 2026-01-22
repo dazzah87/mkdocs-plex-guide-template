@@ -7,5 +7,5 @@ Die Verbindung zu meinem Plex-Server und dessen Nutzung sind sicher! Mein Server
 Allerdings gibt es einige Einstellungen, die Plex versteckt und ich Dir empfehlen würde anzupassen.
 
 [Datenschutzeinstellungen](datenschutzeinstellungen.md){ .md-button .md-button--primary }
-[Newsletter](unsubscribe-from-plex-newsletter.md){ .md-button .md-button--primary }
+[Newsletter-Abonnement](unsubscribe-from-plex-newsletter.md){ .md-button .md-button--primary }
 [Online-Medienquellen](disabling-online-media-sources.md){ .md-button .md-button--primary }
