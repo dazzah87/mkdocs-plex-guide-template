@@ -40,9 +40,11 @@ nav:
   - Intro: index.md
   - Was ist Plex?: what-is-plex.md
   - Ist Plex sicher?: plex-safety.md
-  - Newsletter-Abonnements verwalten: unsubscribe-from-plex-newsletter.md
-  - Bibliotheken anheften: pinning-libraries.md
-  - Deaktivieren von Online-Medienquellen: disabling-online-media-sources.md
+    - recommended-settings/index.md
+    - Empfohlene Datenschutzeinstellungen: datenprotectionsettings.md
+    - Newsletter-Abonnements verwalten: unsubscribe-from-plex-newsletter.md
+    - Deaktivieren von Online-Medienquellen: disabling-online-media-sources.md
+  - Bibliotheken anheften: pinning-libraries.md 
   - Content-Qualität und Aktualisierungsprozess: special-requests.md
   - Ändern der Plex-Streaming-Qualität:
     - changing-stream-quality/index.md
