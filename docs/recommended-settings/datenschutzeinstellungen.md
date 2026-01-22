@@ -44,4 +44,4 @@ Steuere die Sichtbarkeit Deiner Streaming-Aktivitäten:
 2. Scrolle zu "Account Visibility & Activity Sharing"
 3. Klicke auf "Edit" und passe die Optionen nach Deinen Wünschen an.
 
-**Link**: [https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd](https://plex.tv)
+**Link**: [https://app.plex.tv/desktop/#!/settings/account](https://app.plex.tv/desktop/#!/settings/account)
