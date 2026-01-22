@@ -15,6 +15,7 @@ theme:
     - navigation.indexes
     - navigation.tracking
     - navigation.top
+    - navigation.sections
     - toc.integrate
     - search.suggest
     - search.highlight
@@ -40,8 +41,7 @@ nav:
   - Intro: index.md
   - Was ist Plex?: what-is-plex.md
   - Ist Plex sicher?: plex-safety.md
-    - Newsletter-Abonnements verwalten: unsubscribe-from-plex-newsletter.md
-    - Zusätzliche empfohlene Datenschutzeinstellungen: recommended_datenprotectionsettings.md
+  - Newsletter-Abonnements verwalten: unsubscribe-from-plex-newsletter.md
   - Bibliotheken anheften: pinning-libraries.md
   - Deaktivieren von Online-Medienquellen: disabling-online-media-sources.md
   - Content-Qualität und Aktualisierungsprozess: special-requests.md
