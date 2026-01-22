@@ -38,9 +38,6 @@
 /* Nur bei h2/h3 grundsätzlich vorhanden … */
 .md-typeset :where(h2, h3) > .headerlink {
   display: inline-block;
-  width: 1em;
-  height: 1em;
-  margin-left: .35em;
   vertical-align: middle;
 
   /* erst mal „unsichtbar“ */
@@ -59,15 +56,15 @@
 /* Touch-Geräte: Hover existiert oft nicht → Icon leicht sichtbar lassen */
 @media (hover: none) and (pointer: coarse) {
   .md-typeset :where(h2, h3) > .headerlink {
-    opacity: 0.65;
+    opacity: 1;
     visibility: visible;
   }
 }
 
 /* ===== Headings spacing ===== */
 .md-typeset h1 { margin: 0; }
-.md-typeset h2 { margin: 0.65em 0 0; }
-.md-typeset h3 { margin: 0.8em 0 0; }
+.md-typeset h2 { margin: 0.8em 0 0; }
+.md-typeset h3 { margin: 1em 0 0; }
 
 /* ===== Sticky Banner ===== */
 .banner {
