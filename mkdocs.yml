@@ -40,9 +40,9 @@ nav:
   - Intro: index.md
   - Was ist Plex?: what-is-plex.md
   #- Ist Plex sicher?: plex-safety.md
-  - Empfohlene Einstellungen:
+  - Sicherheit und empfohlene Einstellungen:
     - recommended-settings/index.md
-    - Datenschutzeinstellungen: datenprotectionsettings.md
+    - Datenschutzeinstellungen: datenschutzeinstellungen.md
     - Newsletter-Abonnement: unsubscribe-from-plex-newsletter.md
     - Deaktivieren von Online-Medienquellen: disabling-online-media-sources.md
   - Bibliotheken anheften: pinning-libraries.md 
