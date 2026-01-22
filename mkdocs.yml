@@ -15,7 +15,6 @@ theme:
     - navigation.indexes
     - navigation.tracking
     - navigation.top
-    - navigation.sections
     - toc.integrate
     - search.suggest
     - search.highlight
@@ -41,9 +40,7 @@ nav:
   - Intro: index.md
   - Was ist Plex?: what-is-plex.md
   - Ist Plex sicher?: plex-safety.md
-    - Empfohlene Datenschutzeinstellungen:
-      - recommended_datenprotectionsettings.md
-      - unsubscribe-from-plex-newsletter.md
+  - Newsletter-Abonnements verwalten: unsubscribe-from-plex-newsletter.md
   - Bibliotheken anheften: pinning-libraries.md
   - Deaktivieren von Online-Medienquellen: disabling-online-media-sources.md
   - Content-Qualität und Aktualisierungsprozess: special-requests.md
@@ -53,11 +50,6 @@ nav:
     - tvOS (Apple TV): changing-stream-quality/tv-os.md
     - Amazon Fire TV, Android TV, PlayStation, Xbox, Roku, Smart TV (LG, Samsung, VIZIO): changing-stream-quality/streaming-devices.md
     - Webbrowser: changing-stream-quality/web-browser.md
- ## - FAQ:
-   ## - What is transcoding?: faq/what-is-transcoding.md
-   ## - My video won't stop buffering: faq/wont-stop-buffering.md
-   ## - I requested something an hour ago but it hasn't shown up yet. Why?: faq/missing-requests.md
-   ## - I'm having a problem with a Movie or TV Show: faq/content-issues.md
 
 plugins:
   - search
