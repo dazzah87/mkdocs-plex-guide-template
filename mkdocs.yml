@@ -50,7 +50,7 @@ nav:
     - changing-stream-quality/index.md
     - iOS & Android: changing-stream-quality/ios-android.md
     - tvOS (Apple TV): changing-stream-quality/tv-os.md
-    - Amazon Fire TV, Android TV, PlayStation, Xbox, Roku, Smart TV (LG, Samsung, VIZIO): changing-stream-quality/streaming-devices.md
+    - Andere Streaming Geräte: changing-stream-quality/streaming-devices.md
     - Webbrowser: changing-stream-quality/web-browser.md
 
 plugins:
