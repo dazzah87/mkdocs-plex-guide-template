@@ -1,6 +1,6 @@
 # Empfohlene Datenschutzeinstellungen
 
-Um Deinen "Plex-Footprint" zu minimieren, empfehle ich noch folgende Anpassungen:
+Um Deinen digitalen "Plex-Footprint" zu minimieren, empfehle ich noch folgende Anpassungen:
 
 ## 1. Marketing E-Mails deaktivieren
 
@@ -43,3 +43,5 @@ Steuere die Sichtbarkeit Deiner Streaming-Aktivitäten:
 1. Melde Dich im Browser an.
 2. Scrolle zu "Account Visibility & Activity Sharing"
 3. Klicke auf "Edit" und passe die Optionen nach Deinen Wünschen an.
+
+**Link**: [https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd](https://plex.tv)
