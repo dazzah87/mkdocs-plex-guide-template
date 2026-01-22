@@ -38,7 +38,6 @@
 /* Nur bei h2/h3 grundsätzlich vorhanden … */
 .md-typeset :where(h2, h3) > .headerlink {
   display: inline-block;
-  vertical-align: middle;
 
   /* erst mal „unsichtbar“ */
   opacity: 0;
