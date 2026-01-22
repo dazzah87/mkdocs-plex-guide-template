@@ -39,8 +39,8 @@ theme:
 nav:
   - Intro: index.md
   - Was ist Plex?: what-is-plex.md
-  - Ist Plex sicher?: plex-safety.md
-  - Empfohlene Datenschutzeinstellungen:
+  #- Ist Plex sicher?: plex-safety.md
+  - Empfohlene Einstellungen:
     - recommended-settings/index.md
     - Datenschutzeinstellungen: datenprotectionsettings.md
     - Newsletter-Abonnement: unsubscribe-from-plex-newsletter.md
