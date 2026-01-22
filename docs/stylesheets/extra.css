@@ -1,0 +1,100 @@
+/* ===== Theme-Variablen ===== */
+:root {
+  /* RGB als Komponenten, damit Transparenz sauber via / <alpha> geht */
+  --important-color: 220 53 69;
+
+  /* Banner-Höhe zentral konfigurierbar */
+  --banner-height: 24px;
+
+  /* Custom Icon für "important" */
+  --md-admonition-icon--important: url("image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3Cpath%20d='M12%202c5.523%200%2010%204.477%2010%2010s-4.477%2010-10%2010S2%2017.523%202%2012%206.477%202%2012%202m0%202a8%208%200%200%200-8%208%208%208%200%200%200%208%208%208%208%200%200%200%208-8%208%208%200%200%200-8-8m0%203c.552%200%201%20.448%201%201v4c0%20.552-.448%201-1%201s-1-.448-1-1V8c0-.552.448-1%201-1m0%208c.552%200%201%20.448%201%201s-.448%201-1%201-1-.448-1-1%20.448-1%201-1'/%3E%3C/svg%3E");
+}
+
+/* ===== Admonition: important ===== */
+.md-typeset :is(.admonition.important, details.important) {
+  border-color: rgb(var(--important-color));
+}
+
+.md-typeset :is(.important > .admonition-title, .important > summary) {
+  background-color: rgb(var(--important-color) / 0.1);
+}
+
+.md-typeset :is(.important > .admonition-title::before, .important > summary::before) {
+  background-color: rgb(var(--important-color));
+  -webkit-mask-image: var(--md-admonition-icon--important);
+          mask-image: var(--md-admonition-icon--important);
+  -webkit-mask-repeat: no-repeat;
+          mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+          mask-position: center;
+}
+
+/* ===== Permalinks (.headerlink) ===== */
+/* Default: nirgendwo anzeigen (damit h1/h4/etc. wirklich kein Icon haben) */
+.md-typeset .headerlink {
+  display: none;
+}
+
+/* Nur bei h2/h3 grundsätzlich vorhanden … */
+.md-typeset :where(h2, h3) > .headerlink {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-left: .35em;
+  vertical-align: middle;
+
+  /* erst mal „unsichtbar“ */
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.15s ease;
+}
+
+/* … und nur bei Hover/Fokus sichtbar */
+.md-typeset :where(h2, h3):hover > .headerlink,
+.md-typeset :where(h2, h3) > .headerlink:focus-visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Touch-Geräte: Hover existiert oft nicht → Icon leicht sichtbar lassen */
+@media (hover: none) and (pointer: coarse) {
+  .md-typeset :where(h2, h3) > .headerlink {
+    opacity: 0.65;
+    visibility: visible;
+  }
+}
+
+/* ===== Headings spacing ===== */
+.md-typeset h1 { margin: 0; }
+.md-typeset h2 { margin: 0.65em 0 0; }
+.md-typeset h3 { margin: 0.8em 0 0; }
+
+/* ===== Sticky Banner ===== */
+.banner {
+  height: var(--banner-height);
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 200;
+
+  text-align: center;
+  line-height: var(--banner-height);
+  font-weight: 500;
+  background-color: #856404;
+}
+
+/* Header nach unten schieben */
+.banner + .md-header {
+  top: var(--banner-height);
+}
+
+/* Content nicht mit fixer Höhe „abschneiden“ */
+.banner ~ .md-main {
+  padding-top: var(--banner-height);
+}
+
+.banner a:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
