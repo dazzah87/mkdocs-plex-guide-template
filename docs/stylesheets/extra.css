@@ -60,6 +60,11 @@
   }
 }
 
+.md-typeset .button-stack a.md-button {
+  margin-bottom: 2rem;
+  display: inline-block;
+}
+
 /* ===== Headings spacing ===== */
 .md-typeset h1 { margin: 0; }
 .md-typeset h2 { margin: 0.8em 0 0; }
