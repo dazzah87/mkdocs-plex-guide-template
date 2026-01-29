@@ -1,6 +1,10 @@
 # Sicherheit und empfohlene Einstellungen
 
-Die Verbindung zu meinem Plex-Server und dessen Nutzung sind sicher! Plex läuft auf einem dedizierten Leaseweb-Server in den Niederlanden, auf den nur ich Zugriff habe. Die Verbindung erfolgt stets über HTTPS, wodurch der gesamte Datentransfer zwischen Dir und Plex jederzeit verschlüsselt ist. Das SSL-Zertifikat ist selbstsigniert und wird automatisch alle 90 Tage erneuert. Alle persönlichen Daten – einschließlich Deines Benutzernamens, der angesehenen Inhalte und Deines Wiedergabeverlaufs – bleiben ausschließlich für Dich und mich sichtbar.
+Die Verbindung zu meinem Plex-Server und dessen Nutzung sind sicher. Plex läuft auf einem dedizierten Leaseweb-Server in den Niederlanden, auf den nur ich administrativen Zugriff habe.
+
+Der gesamte Datentransfer (Streaming) zwischen Deinem Gerät und Plex ist jederzeit über HTTPS verschlüsselt. Das SSL/TLS-Zertifikat wird von Let’s Encrypt ausgestellt und automatisch alle 90 Tage erneuert. Ich halte das Betriebssystem des Servers sowie Plex regelmäßig auf dem aktuellen Stand und spiele Sicherheitsupdates automatisiert zeitnah ein. 
+
+Alle persönlichen Daten – einschließlich Deines Benutzernamens, der angesehenen Inhalte und Deines Wiedergabeverlaufs – bleiben ausschließlich für Dich und mich sichtbar.
 
 !!! warning ""
     **Die oben genannten Daten werden nur zur technischen Unterstützung verwendet und nicht aktiv eingesehen oder weitergegeben!**
