@@ -5,7 +5,7 @@ Die Verbindung zu meinem Plex-Server und dessen Nutzung sind sicher. Plex läuft
 ## Verschlüsselung der Verbindung
 Der gesamte Datentransfer zwischen Deinem Gerät und Plex ist jederzeit über HTTPS verschlüsselt. Das SSL/TLS-Zertifikat wird von [Let’s Encrypt](https://letsencrypt.org/de/) ausgestellt und automatisch alle 90 Tage erneuert.
 
-Was das für Dich bedeutet: Inhalte, Logins und Metadaten werden auf dem Transportweg gegen Mitlesen geschützt.
+**Was das für Dich bedeutet:** Inhalte, Logins und Metadaten werden auf dem Transportweg gegen Mitlesen geschützt.
 
 ## Server-Härtung
 Ich halte das Betriebssystem des Servers sowie Plex regelmäßig auf dem aktuellen Stand und spiele Sicherheitsupdates automatisiert und zeitnah ein. Zusätzlich ist der Server „minimal offen“ konfiguriert: Nach außen sind nur die wirklich notwendigen Ports/Dienste erreichbar (z.B. für Plex); alles andere wird per Firewall blockiert.
@@ -13,10 +13,12 @@ Ich halte das Betriebssystem des Servers sowie Plex regelmäßig auf dem aktuell
 ## Datenschutz & Konto-Sicherheit
 Dein Benutzername, die angesehenen Inhalte und Dein Wiedergabeverlauf bleiben ausschließlich für Dich und mich sichtbar. Auf Deiner Seite ist wichtig, dass Dein Gerät und die Plex-App aktuell sind und Dein Account mit einem starken Passwort (idealerweise mit 2FA) geschützt ist.
 
-!!! tip "Transparenz"
-    **Ausschließlich zur technischen Unterstützung nutze ich das Plex-Monitoring-Tool [Tautulli](https://tautulli.com/). Es dient dazu, bei Problemen schneller helfen zu können (z.B. ob ein Stream überhaupt gestartet ist oder ein Fehler auftritt). Diese Daten werden nur bei Bedarf zur Fehleranalyse angesehen und nicht weitergegeben!**
+!!! info "Transparenz: Monitoring mit Tautulli"
+    **Zur technischen Unterstützung und Fehleranalyse nutze ich das Tool [Tautulli](https://tautulli.com/). Es hilft mir zu erkennen, ob Streams technisch sauber laufen oder ob Fehler auftreten. Wichtig: Diese Daten werden nur bei Bedarf eingesehen und niemals an Dritte weitergegeben!**
 
-## Einstellungen, die Plex versteckt und ich empfehle anzupassen
+## Empfohlene Anpassungen
+
+Plex versteckt einige Einstellungen, die ich für ein besseres Erlebnis oder mehr Privatsphäre empfehle einmalig anzupassen:
 
 [Datenschutzeinstellungen](datenschutzeinstellungen.md){ .md-button .md-button--primary .btn-mb-2 }
 [Newsletter-Abonnement](unsubscribe-from-plex-newsletter.md){ .md-button .md-button--primary .btn-mb-2 }
