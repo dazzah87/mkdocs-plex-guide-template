@@ -16,7 +16,7 @@ Dein Benutzername, die angesehenen Inhalte und Dein Wiedergabeverlauf bleiben au
 !!! warning "Transparenz"
     **Ausschließlich zur technischen Unterstützung nutze ich das Plex-Monitoring-Tool [Tautulli](https://tautulli.com/). Es dient dazu, bei Problemen schneller helfen zu können (z.B. ob ein Stream überhaupt gestartet ist oder ein Fehler auftritt). Diese Daten werden nur bei Bedarf zur Fehleranalyse angesehen und nicht weitergegeben!**
 
-Allerdings gibt es einige Einstellungen, die Plex versteckt und ich Dir empfehlen würde anzupassen:
+## Einstellungen, die Plex versteckt und ich empfehle anzupassen
 
 [Datenschutzeinstellungen](datenschutzeinstellungen.md){ .md-button .md-button--primary .btn-mb-2 }
 [Newsletter-Abonnement](unsubscribe-from-plex-newsletter.md){ .md-button .md-button--primary .btn-mb-2 }
