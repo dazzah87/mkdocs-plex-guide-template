@@ -60,9 +60,9 @@
   }
 }
 
-/* Abstand unter Buttons (nur dort, wo du die Klasse setzt) */
+/* Abstand Buttons (nur dort, wo du die Klasse setzt) */
 .md-typeset a.md-button.btn-mb-2 {
-  margin-bottom: .5rem;
+  margin: .2rem;
 }
 
 /* Falls Buttons bei dir inline wirken: */
