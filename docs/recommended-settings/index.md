@@ -8,7 +8,7 @@ Der gesamte Datentransfer zwischen Deinem Gerät und Plex ist jederzeit über HT
 **Was das für Dich bedeutet:** Inhalte, Logins und Metadaten werden auf dem Transportweg gegen Mitlesen geschützt.
 
 ## Server-Härtung
-Ich halte das Betriebssystem des Servers sowie Plex regelmäßig auf dem aktuellen Stand und spiele Sicherheitsupdates automatisiert und zeitnah ein. Zusätzlich ist der Server „minimal offen“ konfiguriert: Nach außen sind nur die wirklich notwendigen Ports/Dienste erreichbar (z.B. für Plex); alles andere wird per Firewall blockiert.
+Ich halte das Betriebssystem des Servers sowie Plex regelmäßig auf dem aktuellen Stand und spiele Sicherheitsupdates automatisiert und zeitnah ein. Der Server folgt zudem einer „Minimal Access“-Strategie: Eine Firewall blockiert standardmäßig alle Verbindungen und lässt nur die Dienste durch, die für den Betrieb von Plex zwingend erforderlich sind. Deine IP-Adresse wird nicht von meinem Server nach außen weitergegeben.
 
 ## Datenschutz & Konto-Sicherheit
 Dein Benutzername, die angesehenen Inhalte und Dein Wiedergabeverlauf bleiben ausschließlich für Dich und mich sichtbar. Auf Deiner Seite ist wichtig, dass Dein Gerät und die Plex-App aktuell sind und Dein Account mit einem starken Passwort (idealerweise mit 2FA) geschützt ist.
@@ -17,7 +17,6 @@ Dein Benutzername, die angesehenen Inhalte und Dein Wiedergabeverlauf bleiben au
     **Zur technischen Unterstützung und Fehleranalyse nutze ich das Tool [Tautulli](https://tautulli.com/). Es hilft mir zu erkennen, ob Streams technisch sauber laufen oder ob Fehler auftreten. Wichtig: Diese Daten werden nur bei Bedarf eingesehen und niemals an Dritte weitergegeben!**
 
 ## Empfohlene Anpassungen
-
 Plex versteckt einige Einstellungen, die ich für ein besseres Erlebnis oder mehr Privatsphäre empfehle einmalig anzupassen:
 
 [Datenschutzeinstellungen](datenschutzeinstellungen.md){ .md-button .md-button--primary .btn-mb-2 }
