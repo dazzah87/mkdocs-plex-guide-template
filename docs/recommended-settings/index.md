@@ -1,5 +1,4 @@
-## Sicherheit & empfohlene Einstellungen
-
+# Sicherheit & empfohlene Einstellungen
 Die Verbindung zu meinem Plex-Server und dessen Nutzung sind sicher. Plex läuft auf einem dedizierten Server in den Niederlanden, auf den nur ich administrativen Zugriff habe.
 
 ### Verschlüsselung der Verbindung
