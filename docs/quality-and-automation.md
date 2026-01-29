@@ -1,4 +1,4 @@
-# Content-Qualität und Aktualisierungsprozess
+# Content-Qualität & Aktualisierungsprozess
 
 ## Content-Qualität
 Standardmäßig haben die meisten Inhalte auf meinem Plex-Server folgendes:
