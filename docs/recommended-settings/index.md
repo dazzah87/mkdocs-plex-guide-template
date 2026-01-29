@@ -13,10 +13,8 @@ Ich halte das Betriebssystem des Servers sowie Plex regelmäßig auf dem aktuell
 ## 3) Datenschutz & Konto-Sicherheit
 Dein Benutzername, die angesehenen Inhalte und Dein Wiedergabeverlauf bleiben ausschließlich für Dich und mich sichtbar. Auf Deiner Seite ist wichtig, dass Dein Gerät und die Plex-App aktuell sind und Dein Account mit einem starken Passwort (idealerweise mit 2FA) geschützt ist.
 
-!!! warning "Transparenz: Tautulli"
-    **Ausschließlich zur technischen Unterstützung nutze ich das Monitoring-Tool [Tautulli](https://tautulli.com/).  
-    Es dient dazu, bei Problemen schneller helfen zu können (z.B. ob ein Stream überhaupt gestartet ist oder ein Fehler auftritt).  
-    Diese Daten werden nicht weitergegeben und nur bei Bedarf zur Fehleranalyse angesehen.**
+!!! warning "Transparenz: Monitoring-Tool Tautulli"
+    **Ausschließlich zur technischen Unterstützung nutze ich [Tautulli](https://tautulli.com/). Es dient dazu, bei Problemen schneller helfen zu können (z.B. ob ein Stream überhaupt gestartet ist oder ein Fehler auftritt). Diese Daten werden nur bei Bedarf zur Fehleranalyse angesehen und nicht weitergegeben.**
 
 Allerdings gibt es einige Einstellungen, die Plex versteckt und ich Dir empfehlen würde anzupassen:
 
