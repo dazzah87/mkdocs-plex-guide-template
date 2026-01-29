@@ -14,7 +14,7 @@ babel~=2.17
 colorama~=0.4
 paginate~=0.5
 regex>=2022.4
-requests~=2.26
+requests~=2.32
 mkdocs-git-revision-date-localized-plugin
 mkdocs-git-committers-plugin-2~=2.5.0
 mkdocs-markdownextradata-plugin
