@@ -39,13 +39,13 @@ theme:
 nav:
   - Intro: index.md
   - Was ist Plex?: what-is-plex.md
-  - Sicherheit und empfohlene Einstellungen:
+  - Sicherheit & empfohlene Einstellungen:
     - recommended-settings/index.md
     - Datenschutzeinstellungen: recommended-settings/datenschutzeinstellungen.md
     - Newsletter-Abonnement: recommended-settings/unsubscribe-from-plex-newsletter.md
     - Deaktivieren von Online-Medienquellen: recommended-settings/disabling-online-media-sources.md
   - Bibliotheken anheften: pinning-libraries.md 
-  - Content-Qualität und Aktualisierungsprozess: quality-and-automation.md
+  - Content-Qualität & Aktualisierungsprozess: quality-and-automation.md
   - Ändern der Plex-Streaming-Qualität:
     - changing-stream-quality/index.md
     - iOS & Android: changing-stream-quality/ios-android.md
@@ -109,7 +109,6 @@ extra:
     request_url: "request.example.com"
     plex_url: "plex.example.com"
     plex_libraries: "Movies, Movies (Kids) und TV"
-    noreply_email: "noreply@example.com"
 
   env:
     branch: !ENV [GITHUB_REF_NAME, 'main']
