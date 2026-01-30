@@ -5,7 +5,7 @@ Die Verbindung zu meinem Plex-Server und dessen Nutzung sind sicher. Plex läuft
 Der gesamte Datentransfer zwischen Deinem Gerät und Plex ist jederzeit über HTTPS verschlüsselt. Das SSL/TLS-Zertifikat wird von [Let’s Encrypt](https://letsencrypt.org/de/) ausgestellt und automatisch alle 90 Tage erneuert. **Was das für Dich bedeutet:** Inhalte, Logins und Metadaten werden auf dem Transportweg gegen Mitlesen geschützt.
 
 ### Server-Härtung
-Ich halte das Betriebssystem des Servers sowie Plex regelmäßig auf dem aktuellen Stand und spiele Sicherheitsupdates automatisiert und zeitnah ein. Der Server folgt zudem einer „Minimal Access“-Strategie: Eine Firewall blockiert standardmäßig alle Verbindungen und lässt nur die Dienste durch, die für den Betrieb von Plex zwingend erforderlich sind. Deine IP-Adresse wird nicht von meinem Server nach außen weitergegeben.
+Das Betriebssystem des Servers sowie Plex selbst werden regelmäßig aktualisiert; Sicherheitsupdates werden automatisiert und zeitnah eingespielt. Der Server folgt einer „Minimal Access“-Strategie: Die Firewall blockiert standardmäßig alle eingehenden Verbindungen und erlaubt ausschließlich die Ports, die für den Betrieb von Plex erforderlich sind. Deine IP-Adresse wird nur für die Verbindung zu Plex verwendet und vom Server weder dauerhaft gespeichert noch an Dritte weitergegeben!
 
 ### Datenschutz & Konto-Sicherheit
 Dein Benutzername, die angesehenen Inhalte und Dein Wiedergabeverlauf bleiben ausschließlich für Dich und mich sichtbar. Auf Deiner Seite ist wichtig, dass Dein Gerät und die Plex-App aktuell sind und Dein Account mit einem starken Passwort (idealerweise mit 2FA) geschützt ist.
