@@ -1,8 +1,8 @@
 # Herzlich willkommen! :sparkles:
 
-Dieser Guide sollte den Großteil Deiner Fragen beantworten und erklärt die wichtigsten Schritte, die Du ausführen musst, wenn Du Dich zum ersten Mal mit meinem Plex‑Server verbindest.
+Dieser Guide sollte den Großteil deiner Fragen beantworten und erklärt die wichtigsten Schritte, die du ausführen musst, wenn du dich zum ersten Mal mit meinem Plex‑Server verbindest.
 
-Alle beschriebenen Einstellungen werden automatisch auf all Deinen Geräten synchronisiert und müssen nur ein einziges Mal eingerichtet werden – mit einer Ausnahme: Die **Plex‑Streaming‑Qualität** musst Du bei der ersten Anmeldung in jeder neuen Plex‑App separat festlegen.
+Alle beschriebenen Einstellungen werden automatisch auf all deinen Geräten synchronisiert und müssen nur ein einziges Mal eingerichtet werden – mit einer Ausnahme: Die **Plex‑Streaming‑Qualität** musst du bei der ersten Anmeldung in jeder neuen Plex‑App separat festlegen.
 
 !!! tip ""
     Du musst nicht alles lesen, aber schau dir zumindest bitte die folgenden Abschnitte an: [Bibliotheken anheften](pinning-libraries.md) und [Ändern der Plex-Streaming-Qualität](changing-stream-quality/index.md)!
