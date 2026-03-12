@@ -2,13 +2,13 @@
 Die Verbindung zu meinem Plex-Server und dessen Nutzung sind sicher. Plex läuft auf einem dedizierten Server in den Niederlanden, auf den nur ich administrativen Zugriff habe.
 
 ### Verschlüsselung der Verbindung
-Der gesamte Datentransfer zwischen Deinem Gerät und Plex ist jederzeit über HTTPS verschlüsselt. Das SSL/TLS-Zertifikat wird von [Let’s Encrypt](https://letsencrypt.org/de/) ausgestellt und automatisch alle 90 Tage erneuert. **Was das für Dich bedeutet:** Inhalte, Logins und Metadaten werden auf dem Transportweg gegen Mitlesen geschützt.
+Der gesamte Datentransfer zwischen deinem Gerät und Plex ist jederzeit über HTTPS verschlüsselt. Das SSL/TLS-Zertifikat wird von [Let’s Encrypt](https://letsencrypt.org/de/) ausgestellt und automatisch alle 90 Tage erneuert. **Was das für dich bedeutet:** Inhalte, Logins und Metadaten werden auf dem Transportweg gegen Mitlesen geschützt.
 
 ### Server-Härtung
-Das Betriebssystem des Servers sowie Plex selbst werden regelmäßig aktualisiert; Sicherheitsupdates werden automatisiert und zeitnah eingespielt. Der Server folgt einer „Minimal Access“-Strategie: Die Firewall blockiert standardmäßig alle eingehenden Verbindungen und erlaubt ausschließlich die Ports, die für den Betrieb von Plex erforderlich sind. Deine IP-Adresse wird nur für die Verbindung zu Plex verwendet und vom Server weder dauerhaft gespeichert noch an Dritte weitergegeben!
+Das Betriebssystem des Servers sowie Plex selbst werden regelmäßig aktualisiert. Sicherheitsupdates werden automatisiert und zeitnah eingespielt. Der Server folgt einer „Minimal Access“-Strategie: Die Firewall blockiert standardmäßig alle eingehenden Verbindungen und erlaubt ausschließlich die Ports, die für den Betrieb von Plex erforderlich sind. Deine IP-Adresse wird nur für die Verbindung zu Plex verwendet und vom Server weder dauerhaft gespeichert noch an Dritte weitergegeben!
 
 ### Datenschutz & Konto-Sicherheit
-Dein Benutzername, die angesehenen Inhalte und Dein Wiedergabeverlauf bleiben ausschließlich für Dich und mich sichtbar. Auf Deiner Seite ist wichtig, dass Dein Gerät und die Plex-App aktuell sind und Dein Account mit einem starken Passwort (idealerweise mit 2FA) geschützt ist.
+Dein Benutzername, die angesehenen Inhalte und dein Wiedergabeverlauf bleiben ausschließlich für dich und mich sichtbar. Auf deiner Seite ist wichtig, dass dein Gerät und die Plex-App aktuell sind und dein Account mit einem starken Passwort (idealerweise mit 2FA) geschützt ist.
 
 !!! info "Transparenz: Monitoring mit Tautulli"
     **Zur technischen Unterstützung und Fehleranalyse nutze ich das Tool [Tautulli](https://tautulli.com/). Es hilft mir zu erkennen, ob Streams technisch sauber laufen oder ob Fehler auftreten. Wichtig: Diese Daten werden nur bei Bedarf eingesehen und niemals an Dritte weitergegeben!**
