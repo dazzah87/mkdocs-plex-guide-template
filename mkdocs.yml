@@ -72,27 +72,27 @@ plugins:
       token: !ENV GITHUB_TOKEN
 
 markdown_extensions:
-  - toc:
-      toc_depth: 1
-      permalink: true
-  - pymdownx.blocks.caption
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
   - admonition
+  - attr_list
+  - footnotes
   - pymdownx.arithmatex:
       generic: true
-  - footnotes
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.mark
+  - pymdownx.blocks.caption
   - pymdownx.caret
-  - pymdownx.tilde
-  - attr_list
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - toc:
+      toc_depth: 1
+      permalink: true
 
 copyright: "Copyright &copy; 2026 {{ username }}"
 
