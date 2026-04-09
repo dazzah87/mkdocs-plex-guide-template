@@ -1,6 +1,6 @@
 # Plex Documentation Guide
 
-[![Build and Deploy MkDocs Site](https://github.com/MisterCalvin/mkdocs-plex-guide-template/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/MisterCalvin/mkdocs-plex-guide-template/actions/workflows/ci.yml)
+[![Build and Deploy MkDocs Site](https://github.com/dazzah87/mkdocs-plex-guide-template/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/dazzah87/mkdocs-plex-guide-template/actions/workflows/ci.yml)
 
 A standardized documentation template for your Plex server, built with Material for MkDocs and deployed via GitHub Pages. This template includes pre-built pages covering common Plex topics like streaming quality, content requests, transcoding, and more.
 
@@ -84,7 +84,3 @@ If your deployment fails, check:
 - [Material for MkDocs - Getting started](https://squidfunk.github.io/mkdocs-material/getting-started/)
 - [MkDocs Plugins Catalog](https://github.com/mkdocs/catalog)
 - [MKDocs Password Encryption Plugin](https://github.com/unverbuggt/mkdocs-encryptcontent-plugin)
-
-### Video Tutorials
-- [Creating Documentation with MkDocs Material Theme](https://www.youtube.com/watch?v=Q-YA_dA8C20) - James Willett
-- [Hosting MkDocs on Cloudflare Pages](https://www.youtube.com/watch?v=7-HhLascLuM) - Techdox
