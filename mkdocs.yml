@@ -100,7 +100,7 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - javascripts/plex-status.js
+  - scripts/plex-status.js
 
 extra:
   social:
