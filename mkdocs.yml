@@ -99,6 +99,9 @@ copyright: "Copyright &copy; 2026 {{ username }}"
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/plex-status.js
+
 extra:
   social:
     - icon: fontawesome/solid/globe
@@ -114,4 +117,4 @@ extra:
 
   env:
     branch: !ENV [GITHUB_REF_NAME, 'main']
-    commit_sha: !ENV [commit_sha, '']  # Will be empty on main, show SHA on develop
+    commit_sha: !ENV [commit_sha, '']
