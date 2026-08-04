@@ -4,15 +4,28 @@ Plex ist eine legale und kostenlose Medien-Streaming-Plattform, die deinen Compu
 
 Wenn du dich mit meinem Plex-Server verbindest, bekommst du Zugriff auf meine Medienbibliotheken, ohne selbst einen Server einrichten oder warten zu müssen. Du brauchst dafür lediglich ein [Plex-Konto](https://www.plex.tv/sign-up/). Ein Plex Pass ist nicht erforderlich!
 
-Es sind aktuell <span id="movie-count">lade...</span> Filme verfügbar!
+Es sind aktuell <span id="movie-count" style="font-weight: bold; color: #e5a00d;">lade...</span> Filme verfügbar!
 
 <script>
-  fetch('/assets/movie-count.json')
-    .then(response => response.json())
-    .then(data => {
-      document.getElementById('movie-count').innerText = data;
+  // Absoluter Pfad zu deinem Repository auf GitHub Pages
+  const fileUrl = 'https://dazzah87.github.io/mkdocs-plex-guide-template/assets/movie-count.json';
+
+  fetch(fileUrl)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Datei nicht gefunden (Status: ' + response.status + ')');
+      }
+      // Wir lesen die Datei als simplen Text aus, da sie nur eine Zahl enthält
+      return response.text(); 
     })
-    .catch(error => console.error('Fehler beim Laden der Filmanzahl:', error));
+    .then(data => {
+      // .trim() entfernt unsichtbare Leerzeichen oder Zeilenumbrüche
+      document.getElementById('movie-count').innerText = data.trim();
+    })
+    .catch(error => {
+      console.error('Fehler beim Laden der Filmanzahl:', error);
+      document.getElementById('movie-count').innerText = "ungewiss (Fehler)";
+    });
 </script>
 
 ??? example "Foto-Guide: Dem Plex-Server beitreten"
