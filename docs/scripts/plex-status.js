@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
             statusContainer.innerHTML = `
                 <a href="https://status.plex.tv/" target="_blank" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 8px;">
                     <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: ${color};"></span>
-                    <strong>Plex Status:</strong> ${germanDescription}
+                    <strong>Plex Status:</strong>${germanDescription}
                 </a>
             `;
         })
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function() {
             statusContainer.innerHTML = `
                 <a href="https://status.plex.tv/" target="_blank" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 8px;">
                     <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: grey;"></span>
-                    <strong>Plex Status:</strong> Unbekannt (Statusseite prüfen)
+                    <strong>Plex Status:</strong>Unbekannt (Statusseite prüfen)
                 </a>`;
         });
 });
