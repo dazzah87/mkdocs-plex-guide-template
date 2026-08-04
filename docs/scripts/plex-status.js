@@ -6,14 +6,14 @@ document.addEventListener("DOMContentLoaded", function() {
     fetch("https://status.plex.tv/api/v2/status.json")
         .then(response => response.json())
         .then(data => {
-            const indicator = data.status.indicator; // Gibt z.B. "none", "minor", "major", "critical", "maintenance" zurück
+            const indicator = data.status.indicator;
             
             let color = "grey";
-            let germanDescription = data.status.description; // Fallback auf das Original, falls was Unbekanntes kommt
+            let germanDescription = data.status.description;
 
             if (indicator === "none") {
                 color = "#2fcc66"; // Grün
-                germanDescription = "Alle Systeme sind verfügbar. Keine Störungen oder Einschränkungen bekannt.";
+                germanDescription = "Alle Systeme sind verfügbar! Keine Störungen oder Einschränkungen bekannt.";
             } else if (indicator === "minor") {
                 color = "#f1c40f"; // Gelb
                 germanDescription = "Leichte Einschränkungen";
@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function() {
             }
 
             statusContainer.innerHTML = `
-                <a href="https://status.plex.tv/" target="_blank" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 8px;">
+                <a href="https://status.plex.tv/" target="_blank" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 4px;">
                     <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: ${color};"></span>
                     <strong>Plex Status:</strong>${germanDescription}
                 </a>
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
         .catch(error => {
             console.error("Fehler beim Abrufen des Plex-Status:", error);
             statusContainer.innerHTML = `
-                <a href="https://status.plex.tv/" target="_blank" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 8px;">
+                <a href="https://status.plex.tv/" target="_blank" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 4px;">
                     <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: grey;"></span>
                     <strong>Plex Status:</strong>Unbekannt (Statusseite prüfen)
                 </a>`;
