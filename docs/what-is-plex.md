@@ -2,7 +2,7 @@
 
 Plex ist eine legale und kostenlose Medien-Streaming-Plattform, die deinen Computer oder dein Smartphone in einen persönlichen „Netflix‑ähnlichen“ Dienst verwandelt. Wenn Plex auf einem Server installiert ist, schafft sie eine Benutzeroberfläche, über die du Filme und TV-Serien von jedem Gerät aus ansehen kannst – egal ob zu Hause oder unterwegs.
 
-Wenn du dich mit meinem Plex-Server verbindest, bekommst du Zugriff auf meine Medienbibliotheken, ohne selbst einen Server einrichten oder warten zu müssen. Du brauchst dafür lediglich ein [Plex-Konto](https://www.plex.tv/sign-up/). ==Ein Plex Pass ist nicht erforderlich!==
+Wenn du dich mit meinem Plex-Server verbindest, bekommst du Zugriff auf meine Medienbibliotheken, ohne selbst einen Server einrichten oder warten zu müssen. Du brauchst dafür lediglich ein [Plex-Konto](https://www.plex.tv/sign-up/). ==Ein Plex Pass ist **nicht** erforderlich!==
 
 Es sind aktuell <span id="movie-count" style="font-weight: bold; color: #e5a00d;">lade...</span> Filme verfügbar!
 
