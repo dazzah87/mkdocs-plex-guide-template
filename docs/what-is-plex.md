@@ -7,19 +7,16 @@ Wenn du dich mit meinem Plex-Server verbindest, bekommst du Zugriff auf meine Me
 Es sind aktuell <span id="movie-count" style="font-weight: bold; color: #e5a00d;">lade...</span> Filme verfügbar!
 
 <script>
-  // Absoluter Pfad zu deinem Repository auf GitHub Pages
   const fileUrl = 'https://dazzah87.github.io/mkdocs-plex-guide-template/assets/movie-count.json';
-
+  
   fetch(fileUrl)
     .then(response => {
       if (!response.ok) {
         throw new Error('Datei nicht gefunden (Status: ' + response.status + ')');
       }
-      // Wir lesen die Datei als simplen Text aus, da sie nur eine Zahl enthält
       return response.text(); 
     })
     .then(data => {
-      // .trim() entfernt unsichtbare Leerzeichen oder Zeilenumbrüche
       document.getElementById('movie-count').innerText = data.trim();
     })
     .catch(error => {
