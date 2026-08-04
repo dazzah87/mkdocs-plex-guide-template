@@ -4,6 +4,17 @@ Plex ist eine legale und kostenlose Medien-Streaming-Plattform, die deinen Compu
 
 Wenn du dich mit meinem Plex-Server verbindest, bekommst du Zugriff auf meine Medienbibliotheken, ohne selbst einen Server einrichten oder warten zu müssen. Du brauchst dafür lediglich ein [Plex-Konto](https://www.plex.tv/sign-up/). Ein Plex Pass ist nicht erforderlich!
 
+Es sind aktuell <span id="movie-count">lade...</span> Filme verfügbar!
+
+<script>
+  fetch('/assets/movie-count.json')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('movie-count').innerText = data;
+    })
+    .catch(error => console.error('Fehler beim Laden der Filmanzahl:', error));
+</script>
+
 ??? example "Foto-Guide: Dem Plex-Server beitreten"
 
     ![Example](assets/images/joining-plex-1.webp)
