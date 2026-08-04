@@ -89,7 +89,7 @@ jobs:
       - name: Fetch Movie Count
         run: |
           mkdir -p docs/assets
-          curl -s "https://srv1121.walkerservers.com/tautulli/api/v2?cmd=get_libraries&apikey=${{ secrets.TAUTULLI_API_KEY }}" | jq -r '.response.data[] | select(.section_id == "1" or .section_id == 1) | .count' > docs/assets/movie-count.json
+          curl -s "https://srv1121.walkerservers.com/tautulli/api/v2?cmd=get_libraries&apikey=${{ secrets.TAUTULLI_API_KEY }}" | jq -r '[.response.data[] | select(.section_id == "1" or .section_id == 1 or .section_id == "3" or .section_id == 3) | .count | tonumber] | add' > docs/assets/movie-count.json
 
       - name: Build Site
         env:
