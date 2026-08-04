@@ -70,7 +70,7 @@ jobs:
           else
             echo "commit_sha=" >> $GITHUB_ENV
           fi
-
+          
       - name: Update mkdocs.yml
         run: |
           # Get current year
@@ -85,6 +85,10 @@ jobs:
           sed "s/{{ commit_sha }}/${commit_sha}/g" \
           > mkdocs.generated.yml
           mv mkdocs.generated.yml mkdocs.yml
+
+      - name: Fetch Movie Count
+        run: |
+          curl -s "https://srv1121.walkerservers.com/tautulli/api/v2?cmd=get_library_media_info&section_id=1&apikey=${{ secrets.TAUTULLI_API_KEY }}" | jq '.response.data[0].count' > docs/assets/movie-count.json
 
       - name: Build Site
         env:
